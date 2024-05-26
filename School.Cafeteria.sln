@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "School.Cafeteria", "School.Cafeteria\School.Cafeteria.csproj", "{1881ED64-526B-456A-A452-EB13D9CF5D18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "School.Cafeteria.Services", "School.Cafeteria.Services\School.Cafeteria.Services.csproj", "{A27666E6-3ACA-49B7-AB40-E1E62DF9AD89}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "School.Cafeteria.Models", "School.Cafeteria.Models\School.Cafeteria.Models.csproj", "{5BDEAC06-EAF0-43BF-9CB5-F56B5DA5B40A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "School.Cafeteria.Domain", "School.Cafeteria.Domain\School.Cafeteria.Domain.csproj", "{095172EA-11A3-44FB-A834-CC3B3AFCEE9A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "School.Cafeteria.Business", "School.Cafeteria.Business\School.Cafeteria.Business.csproj", "{00DD6ED9-0AD9-48F1-AA6C-03CCDF0347C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School.Cafeteria.Common", "School.Cafeteria.Common\School.Cafeteria.Common.csproj", "{B2E0AA42-A27D-42DB-BD39-C164EFE7C15B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1881ED64-526B-456A-A452-EB13D9CF5D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1881ED64-526B-456A-A452-EB13D9CF5D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1881ED64-526B-456A-A452-EB13D9CF5D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1881ED64-526B-456A-A452-EB13D9CF5D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A27666E6-3ACA-49B7-AB40-E1E62DF9AD89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A27666E6-3ACA-49B7-AB40-E1E62DF9AD89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A27666E6-3ACA-49B7-AB40-E1E62DF9AD89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A27666E6-3ACA-49B7-AB40-E1E62DF9AD89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BDEAC06-EAF0-43BF-9CB5-F56B5DA5B40A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDEAC06-EAF0-43BF-9CB5-F56B5DA5B40A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDEAC06-EAF0-43BF-9CB5-F56B5DA5B40A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDEAC06-EAF0-43BF-9CB5-F56B5DA5B40A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{095172EA-11A3-44FB-A834-CC3B3AFCEE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095172EA-11A3-44FB-A834-CC3B3AFCEE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{095172EA-11A3-44FB-A834-CC3B3AFCEE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095172EA-11A3-44FB-A834-CC3B3AFCEE9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DD6ED9-0AD9-48F1-AA6C-03CCDF0347C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DD6ED9-0AD9-48F1-AA6C-03CCDF0347C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DD6ED9-0AD9-48F1-AA6C-03CCDF0347C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DD6ED9-0AD9-48F1-AA6C-03CCDF0347C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E0AA42-A27D-42DB-BD39-C164EFE7C15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E0AA42-A27D-42DB-BD39-C164EFE7C15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E0AA42-A27D-42DB-BD39-C164EFE7C15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E0AA42-A27D-42DB-BD39-C164EFE7C15B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3B5E22D-2EFD-4CA4-BEE2-11D6E7D80003}
+	EndGlobalSection
+EndGlobal
